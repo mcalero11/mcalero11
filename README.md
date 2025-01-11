@@ -16,4 +16,4 @@
 <p>
   <img align="center" src="https://api.githubtrends.io/user/svg/mcalero11/langs?time_range=one_year&include_private=True&group=private&loc_metric=changed&compact=True&theme=dark" alt="mcalero11" />
 </p>
-
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/mcalero11/langs)](https://githubtrends.io)
